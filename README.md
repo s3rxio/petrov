@@ -3,7 +3,7 @@
 ## GET /?asd=asd
 ![image](https://github.com/user-attachments/assets/afaded77-8e63-46b1-8633-cc1f2d79ade2)
 
-## GET /?asd=asd
+## POST /?asd=asd
 ### Body 
 ```json
 { 
