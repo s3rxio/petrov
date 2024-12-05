@@ -1,4 +1,4 @@
-# Практик №16
+# Практика №16
 
 ## GET /?asd=asd
 ![image](https://github.com/user-attachments/assets/afaded77-8e63-46b1-8633-cc1f2d79ade2)
