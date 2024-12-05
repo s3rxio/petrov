@@ -13,7 +13,7 @@ app.use(bodyParser.text());
 
 /* Routes handlers */
 app.get("/", (req, res) => {
-  res.send(req.query);
+  res.json(req.query);
 });
 
 app.post("/", (req, res) => {
